@@ -1,0 +1,160 @@
+/* tosca #17a2b8; */
+
+body, html {
+    padding: 0px;
+    margin: 0px;
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+#banner {
+    padding-top: 0px;
+    margin: 10%;
+}
+
+
+#main { 
+    padding-bottom: 70px;
+    margin: auto;
+    width: 100%;
+    display: table;
+}
+
+    #main h1 {
+        text-align: center;
+    }
+
+#main-about { 
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin: auto;
+    width: 100%;
+    display: table;
+    
+}
+
+#main-teacher { 
+    padding-top: 70px;
+    padding-bottom: 70px;
+    
+}
+
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+    margin-top: 4rem;
+  }
+  .marketing h2 {
+    font-weight: 400;
+  }
+
+  .marketing h1 {
+    text-align: center;
+  }
+
+  .marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+
+    #main-about h1 {
+        text-align: center;
+        padding-bottom: 70px;
+    }
+
+    #main-about img {
+        width: 14.0rem;
+        height: 14.0rem;
+        
+    }
+
+#paralax {
+    height: 300px;
+    background-image: url('../img/Unknown-7.jpeg');
+    background-position-y: -205px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.footer {
+    font-size: 0.70rem;
+    padding-top: solid 10px teal;
+    padding: 5%; 
+    background-color: turquoise;
+    list-style: none;
+    color: teal;
+}
+
+    .footer ul {
+        padding: 0px;
+    }
+
+    .footer ul li {
+        list-style: none;
+        padding: 0px;
+        margin: 0px;
+    }
+
+
+#main-school {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+#main-portfolio {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+#main-register {
+    width: 100%;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+#form-header {
+    height: 400px;
+    background-image: url('../img/S__30277667.jpg');
+    background-position-y: -405px;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+#main-register form {
+    margin: auto;
+    padding-top: 70px;
+}
+
+/* background-image: url('../img/S__30277660.jpg') */
+
+    #main-register .rounded-circle {
+        width: 400px;
+        height: 400px;
+    }
+
+@media (max-width: 575px) { 
+
+ }
+
+
+@media (max-width: 767px) { 
+    #banner {
+        padding-top: 50px;
+    }
+
+    .card-group p {
+        font-size: 10px;
+    }
+ }
+
+
+@media (max-width: 991px) { 
+
+ }
+
+@media (max-width: 1199px) {
+    
+ }
